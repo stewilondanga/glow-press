@@ -246,11 +246,12 @@ html, body {
   animation: rotate 2s infinite linear;
 }
 
-/*.btn:before {
+.btn:before {
   animation: rotate 2s infinite linear;
   filter: blur(20px);
 }
-.btn .btnInner {
+
+/*.btn .btnInner {
   position: relative;
   display: flex;
   flex-direction: column;
