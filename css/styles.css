@@ -268,10 +268,11 @@ html, body {
   backface-visibility: hidden;
 }
 
-/*.btn:hover .btnInner {
+.btn:hover .btnInner {
   background: rgba(88, 221, 147, 0.1);
   color: #adeeca;
 }
-.btn:active {
+
+/*.btn:active {
   transform: scale(0.95);
 }
