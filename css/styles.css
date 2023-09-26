@@ -273,6 +273,6 @@ html, body {
   color: #adeeca;
 }
 
-/*.btn:active {
+.btn:active {
   transform: scale(0.95);
 }
