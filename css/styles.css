@@ -165,14 +165,14 @@ a {
   line-height: 100%;
 }
 
-/*:root {
+:root {
   --size-default: 22px;
   --size-sm: 16px;
   --color-green: #58DD93;
   --color-black: #000;
 }
 
-@property --angle {
+/*@property --angle {
   syntax: "<angle>";
   initial-value: 0deg;
   inherits: false;
