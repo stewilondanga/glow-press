@@ -183,16 +183,19 @@ a {
   initial-value: #58DD93;
 }
 
-/*@keyframes rotate {
+@keyframes rotate {
   0% {
     --angle: 0deg;
     --glowColor: var(--color-green);
   }
+
   100% {
     --angle: 360deg;
     --glowColor: var(--color-green);
   }
 }
+
+/*
 * {
   box-sizing: border-box;
 }
