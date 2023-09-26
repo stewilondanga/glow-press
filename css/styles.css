@@ -251,7 +251,7 @@ html, body {
   filter: blur(20px);
 }
 
-/*.btn .btnInner {
+.btn .btnInner {
   position: relative;
   display: flex;
   flex-direction: column;
@@ -267,7 +267,8 @@ html, body {
   backdrop-filter: blur(40px);
   backface-visibility: hidden;
 }
-.btn:hover .btnInner {
+
+/*.btn:hover .btnInner {
   background: rgba(88, 221, 147, 0.1);
   color: #adeeca;
 }
