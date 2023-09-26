@@ -208,7 +208,6 @@ html, body {
   font-size: 20px;
 }
 
-/*
 .container {
   display: flex;
   width: 100%;
@@ -218,6 +217,7 @@ html, body {
   padding: 16px;
 }
 
+/*
 .btn {
   display: flex;
   align-items: center;
