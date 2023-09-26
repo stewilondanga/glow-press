@@ -172,12 +172,13 @@ a {
   --color-black: #000;
 }
 
-/*@property --angle {
+@property --angle {
   syntax: "<angle>";
   initial-value: 0deg;
   inherits: false;
 }
-@property --glowColor {
+
+/*@property --glowColor {
   syntax: "<color>";
   initial-value: #58DD93;
 }
